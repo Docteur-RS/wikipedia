@@ -1,0 +1,35 @@
+{
+    "moduleName": "Wikipedia",
+    "files": {
+        "frontEnd": [
+            {
+                "className": "HUGUESDPDN_CLASSNAME_Wikipedia",
+                "filePath": "HUGUESDPDN_FILE_FRONT_Main"
+            }
+        ],
+        "backEnd": [
+            {
+                "objectName": "HUGUESDPDN_OBJECTNAME_Wikipedia",
+                "filePath": "HUGUESDPDN_FILE_BACK_Main"
+            }
+        ],
+        "templates": [
+            {
+                "templateId": "HUGUESDPDN_TEMPLATE_Reset",
+                "filePath": "HUGUESDPDN_FILE_TEMPLATE_Reset"
+            },
+            {
+                "templateId": "HUGUESDPDN_TEMPLATE_ShowResults",
+                "filePath": "HUGUESDPDN_FILE_TEMPLATE_ShowResults"
+            },
+            {
+                "templateId": "HUGUESDPDN_TEMPLATE_ErrorServer",
+                "filePath": "HUGUESDPDN_FILE_TEMPLATE_ErrorServer"
+            },
+            {
+                "templateId": "HUGUESDPDN_TEMPLATE_ErrorInternet",
+                "filePath": "HUGUESDPDN_FILE_TEMPLATE_ErrorInternet"
+            }
+        ]
+    }
+}

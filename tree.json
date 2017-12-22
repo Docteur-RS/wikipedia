@@ -1,0 +1,7 @@
+{
+    "_comment": "research in wikipedia",
+    "R|(wiki|wikipedia).*": {
+        "_response": "Wikipedia|HUGUESDPDN_OBJECTNAME_Wikipedia|launch",
+        "_jump": "mainSection"
+    }
+}
