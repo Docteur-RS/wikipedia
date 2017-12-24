@@ -6,6 +6,6 @@ Searches on the wiki<br>
 
 <b>Have a question ?</b><br><br>
 
-<Wikipedia has the answer !<br><br>
+Wikipedia has the answer !<br><br>
 
 Why open your browser, search for Wikipedia and finally get your answer when you can simply <b>ask directly through Vicki !</b> <br>
