@@ -1,4 +1,4 @@
-# wikipedia
+# wikipedia<br>
 Searches on the wiki<br>
 
 <img style="max-width: 40%; margin-left: 26%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikipedia-logo-v2-fr.svg/1200px-Wikipedia-logo-v2-fr.svg.png"><br>
