@@ -1,7 +1,18 @@
 {
     "_comment": "research in wikipedia",
-    "R|(wiki|wikipedia).*": {
-        "_response": "Wikipedia|HUGUESDPDN_OBJECTNAME_Wikipedia|launch",
+    
+    "R|(?:search|find|research)(?: (?:on wikipedia)| (?:on wikipédia)| (?:on wiki))(.*)" : {
+        "_response": "Wikipedia|HUGUESDPDN_OBJECTNAME_Wikipedia|launch1",
+        "_jump": "mainSection"
+    },
+    "R|(?:search|find|research)(.*)(?: (?:on wikipedia)| (?:on wikipédia)| (?:on wiki))" : {
+        "_response": "Wikipedia|HUGUESDPDN_OBJECTNAME_Wikipedia|launch2",
+        "_jump": "mainSection"
+    },
+    "R|(?:wikipedia|wiki)(.*)" : {
+        "_response": "Wikipedia|HUGUESDPDN_OBJECTNAME_Wikipedia|launch3",
         "_jump": "mainSection"
     }
+    
+    
 }
